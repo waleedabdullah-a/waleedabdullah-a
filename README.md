@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning **Python, HTML and CSS, Wordpress, Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **Further Projects**
-
+- 
+- 👨‍💻 All of my Data Analytics projects are available at[Data Analytics](https://github.com/waleedabdullah-a/-Data-Analysis-Projects-using-Python-)
+- 
 - 👨‍💻 All of my Graphics projects are available at [Graphic Projects](https://bit.ly/3Iu1LBe)
 
 - 💬 Ask me about **python,wordpress etc**
