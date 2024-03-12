@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Further Projects**
 
-- 👨‍💻 All of my Graphics projects are available at [https://bit.ly/3Iu1LBe](https://bit.ly/3Iu1LBe)
+- 👨‍💻 All of my Graphics projects are available at [Graphic Projects](https://bit.ly/3Iu1LBe)
 
 - 💬 Ask me about **python,wordpress etc**
 
