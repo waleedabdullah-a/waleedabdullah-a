@@ -4,17 +4,19 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedabdullah-a&label=Profile%20views&color=0e75b6&style=flat" alt="waleedabdullah-a" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics and Graphic Designing Projects**
+- 🔭 I’m currently working on **Data Analytics, Graphic Designing and Cyber Security Projects**
 
-- 🌱 I’m currently learning **Python, HTML and CSS, Wordpress, Ethical Hacking**
+- 🌱 I’m currently learning **Python, Full Stack Developement, (Java, Kotlin) in Android Developemnet, Cyber Security**
 
 - 👯 I’m looking to collaborate on **Further Projects**
   
 - 👨‍💻 All of my Data Analytics projects are available at [Data Analytics](https://github.com/waleedabdullah-a/-Data-Analysis-Projects-using-Python-)
   
-- 👨‍💻 All of my Graphics projects are available at [Graphic Projects](https://bit.ly/3Iu1LBe)
+- 👨‍💻 All of my Graphics projects are available at [Graphic Designing](https://bit.ly/3Iu1LBe)
 
-- 💬 Ask me about **python,wordpress etc**
+- 👨‍💻 All of my Cyber projects are available at [Cyber Security](https://bit.ly/3Iu1LBe)
+
+- 💬 Ask me about **python,Ethical hacking, etc**
 
 - 📫 How to reach me **waleed.bsit876@iiu.edu.pk**
 
