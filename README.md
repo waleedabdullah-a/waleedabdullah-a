@@ -14,7 +14,7 @@
   
 - 👨‍💻 All of my Graphics projects are available at [Graphic Designing](https://bit.ly/3Iu1LBe)
 
-- 👨‍💻 All of my Cyber projects are available at [Cyber Security](https://bit.ly/3Iu1LBe)
+- 👨‍💻 All of my Cyber projects are available at [Cyber Security](https://github.com/waleedabdullah-a/Cyber-Security-Projects)
 
 - 💬 Ask me about **python,Ethical hacking, etc**
 
